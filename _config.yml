@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Pedro Alvarez
 tagline:             Software Engineer
 url:                 http://jekyll.alvarezpiedehierro.com
-paginate:            1
+paginate:            4
 baseurl:             ""
 
 # Assets
