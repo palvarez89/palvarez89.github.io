@@ -17,8 +17,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Esta última semana ha sido crucial. La más decisiva de lo que llevo aquí. Más
 que nada por que he tenido nada más y nada menos que 3 entrevistas
@@ -33,6 +31,8 @@ presenciales.
 El martes tuve que ir a Stonehouse, a una oficina en el medio de la nada. La
 verdad es que lo pase bastante mal, hizo un día caluroso y húmedo, y el traje
 no ayudaba a refrigerame.
+
+<!--more-->
 
 Una vez en la oficina de **Raspen Industries **(perteneciente a Mass Measuring)
 hice la entrevista, y tengo que decir que acabé un poco cabreado. El trabajo no

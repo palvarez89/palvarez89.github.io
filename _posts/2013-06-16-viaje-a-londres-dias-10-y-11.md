@@ -17,8 +17,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Estos dos últimos días han sido un poco movidos.
 
@@ -30,6 +28,8 @@ mismo.
 Así que el **viernes día 14**, tras levantarnos tranquilamente aún cansados del
 **[viaje a Manchester][1]**, le eché un cable en su vuelta a casa y le acompañe
 hasta la estación.
+
+<!--more-->
 
 Tras despedirnos andaba un poco perdido, era la primera vez que andaba sólo por
 ahí, con lo que decidí volverme a casa a intentar hacer algo productivo y

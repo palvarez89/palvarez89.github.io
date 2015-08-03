@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Hola a todos y bienvenidos de nuevo! 
 
@@ -32,6 +30,8 @@ la hora que ellos quisieron y no a la que les pedí que me llamaran. De todas
 formas fue bien: los de **FDM** me dijeron que me van a llamar hoy para hacerme
 una entrevista, y la otra llamada que tuve me preguntaron algunas cosas sobre
 mi y me informaron del puesto; es para trabajar en **HP** en Bristol.
+
+<!--more-->
 
 Como veis, todo fue bien, así que para acabar el día decidí organizarme. Me he
 creado unas fichas en las que voy rellenando los datos de citas e información

@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Bueno, este será un espacio personal donde poner un poco de todo. Reflexiones,
 experiencias y quizás alguna que otra información útil para gente como yo.

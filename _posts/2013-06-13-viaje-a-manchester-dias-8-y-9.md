@@ -15,8 +15,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Hola a todos, escribo esta vez desde el tren viajando desde Manchester a
 Londres. Han sido un par de días duros, no por las ferias, si no por las horas
@@ -27,6 +25,8 @@ Manchester. Los trenes para ir rondaban las 40 libras, lo cual nos parecía un
 poco caro. Conseguimos llegar a Manchester a las sobre las 12 y a la Feria a la
 1pm más o menos. En el trayecto una Recruiter se puso en contacto conmigo para
 una oferta que había aplicado. Y quedó en llamarme la mañana siguiente.
+
+<!--more-->
 
 Esta feria se hizo en la universidad de Manchester, y aunque fuera en una de
 las facultades más pequeñas, hemos flipado bastante con las instalaciones. Las

@@ -17,8 +17,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Tras unos días de estancia aquí, he decidido por fin actualizar el blog.
 
@@ -31,6 +29,8 @@ Sigo esperando alguna respuesta de los de **n.able** (HP) y por otra parte
 tengo una entrevista presencial en **Worcester** para trabajar con
 **[OpenGI][1]**. La tengo el martes que viene así que ya os contaré que tal me
 ha ido.
+
+<!--more-->
 
 He descubierto nuevos portales en los que echar curriculums como:
 **[Totaljobs][2], [Reed.co.uk][3] [Jobsite][4].** y la verdad que he encontrado

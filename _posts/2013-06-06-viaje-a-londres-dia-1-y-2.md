@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Como se que a muchos de vosotros os interesa la experiencia que estoy viviendo,
 he decidido arrancar de una vez por todas con este Blog. En esta y en otras
@@ -36,6 +34,8 @@ una especie de entrevistas y pruebas de grupo el día 12. En principio no
 pensamos ir por que no es en Londres, y además coincide con otra feria de
 empleo en Manchester, la cual parece que es mucho mas interesante y con mas
 ofertas que ésta primera.
+
+<!--more-->
 
 Después de todo esto, nos fuimos a dar un paseo por Londres y estuvimos
 descansando en Hyde Park. Cuando se hizo suficientemente tarde como para ir a

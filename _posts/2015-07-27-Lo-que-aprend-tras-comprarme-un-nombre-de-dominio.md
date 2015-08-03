@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: 'Pedro'
   last_name: 'Alvarez Piedehierro'
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 
 Llevaba ya un tiempo dándole vueltas a nombres de dominio. Tenía ganas de
@@ -32,6 +30,8 @@ barato y al final acabé comparándolo en Nominalia.
 
 El proceso de compra fue muy sencillo. El problema empezó cuando empecé a
 intentar configurarlo..
+
+<!--more-->
 
 Lo primero que intenté crear un subdominio **pedro** apuntando a
 [pedroalvarez.hol.es][2]. Tras leer [sobre los diferentes tipos de registros

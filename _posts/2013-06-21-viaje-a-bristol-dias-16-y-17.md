@@ -17,8 +17,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Pues si, como ya os comenté, he decidido mudarme a Bristol. La decisión
 principalmente motivada por que tengo por aquí a dos amigos (Héctor y Pablo)
@@ -32,6 +30,8 @@ moverte por las zonas céntricas andando, y ya si tienes una bici por aquí no
 tienes problema alguno con el transporte. Todo esto unido a que venía de
 Londres, ciudad agotadora en cuanto a transporte se refiere, hace que mi
 primera impresión sea bastante buena.
+
+<!--more-->
 
 Tampoco hice mucho interesante, dar una vuelta por Bristol y hacer amistades.
 Lo destacable de este día es que los de **n.able** (para trabajar en HP), se

@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Hola de nuevo a todos y bienvenidos a la segunda entrega de: **Viaje a Londres**!!
 
@@ -37,6 +35,8 @@ clave como **graduate**, **software**, **java**, **android**&#8230; También
 hemos escrito a la embajada española de Londres para preguntar por si tienen
 algún servicio de orientación laboral para que nos pueda echar una mano, aunque
 aún no hemos obtenido respuesta.
+
+<!--more-->
 
 Otra cosa importante que he hecho hoy ha sido pedir una tarjeta prepago para el
 móvil, así puedo usar en el CV un numero inglés y que me llamen al teléfono sin

@@ -17,8 +17,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 No había caído hasta que he puesto el título de la entrada: hoy es el décimo
 tercer día que llevo aquí, pero ¿quién cree en las supersticiones? Yo
@@ -28,6 +26,8 @@ Hoy, como todos los días de diario, me he levantado una hora antes de que
 sonara mi despertador debido a la ausencia de persianas. Aparentaba ser un día
 normal: me he puesto a buscar nuevas ofertas, he aplicado en algunas, etc. Todo
 ha empezado alrededor de la hora de comer.
+
+<!--more-->
 
   * Primero he recibido un email para indicarme de que estoy dentro de una
     prueba de código. Por lo tanto he empezado con ella.

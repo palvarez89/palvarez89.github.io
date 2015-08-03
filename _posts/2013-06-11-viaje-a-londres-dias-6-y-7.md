@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Hola a todos y bienvenidos de nuevo!
 
@@ -35,6 +33,8 @@ buscando un Junior Developer con 2 años de experiencia. Parece ser que esta vez
 no he tenido suerte. El resto de la mañana la hemos dedicado a seguir aplicando
 a ofertas, porque cuantas más eche más probabilidades habrá de que me
 llamen&#8230; digo yo.
+
+<!--more-->
 
 Hoy ya, día 11 de Junio, he encontrado una página interesante llamada
 **[ITLondres ][1]**en la que he visto como reestructurar mi Currículum para que

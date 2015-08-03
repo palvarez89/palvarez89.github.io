@@ -16,8 +16,6 @@ author:
   display_name: palvarez89
   first_name: ''
   last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 Cómo ya habéis visto, la frecuencia de actualizaciones ha bajado drásticamente.
 Es debido a que he entrado en una rutina bastante aburrida: buscar vacantes,
@@ -31,6 +29,8 @@ trabajando con retos. Me dirán la respuesta en una semana.
 
 También hice otra have un par de semanas en Worcester (**OpenGI**) la cual me
 salio bastante bien pero ya me han dicho que no.
+
+<!--more-->
 
 Ahora tengo entre manos otra entrevista la semana que viene, con
 **MassMeassuring** y también estoy haciendo algunos problemas de código para
