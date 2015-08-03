@@ -51,5 +51,5 @@ Un saludo a todos!
 
 Pedro.
 
- [1]: http://www.pedroalvarez.hol.es/busqueda-de-trabajo/2013/06/viaje-a-manchester-dias-8-y-9/ "Viaje a Manchester (días 8 y 9)"
+ [1]: http://pedro.alvarezpiedehierro.com/busqueda-de-trabajo/2013/06/13/viaje-a-manchester-dias-8-y-9/ "Viaje a Manchester (días 8 y 9)"
  [2]: http://www.chromeweblab.com/es

@@ -23,7 +23,7 @@ que nada por que he tenido nada más y nada menos que 3 entrevistas
 presenciales.
 
 <p style="text-align: center;">
-  <a href="http://www.pedroalvarez.hol.es/wp-content/uploads/2013/07/2012-11-12-22.25.11.jpg"><img class="size-medium wp-image-176  aligncenter" alt="Mi primera y única galleta de la suertee" src="http://www.pedroalvarez.hol.es/wp-content/uploads/2013/07/2012-11-12-22.25.11-300x225.jpg" width="300" height="225" /></a>
+  <a href="http://pedro.alvarezpiedehierro.com/wp-content/uploads/2013/07/2012-11-12-22.25.11.jpg"><img class="size-medium wp-image-176  aligncenter" alt="Mi primera y única galleta de la suertee" src="http://pedro.alvarezpiedehierro.com/wp-content/uploads/2013/07/2012-11-12-22.25.11-300x225.jpg" width="300" height="225" /></a>
 </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ España. Voy a pasar una semana de vacaciones por que quieren que empiece el dí
 viajando con mi portátil, mis apuntes, y en traje like a boss.
 
 <p style="text-align: center;">
-  <a href="http://www.pedroalvarez.hol.es/wp-content/uploads/2013/07/wpid-DSC_0510.jpg"><img class="size-full  aligncenter" title="DSC_0510.jpg" alt="Vuelo de vuelta a España tras conseguir el trabajo " src="http://www.pedroalvarez.hol.es/wp-content/uploads/2013/07/wpid-DSC_0510.jpg" width="500" height="375" /></a>
+  <a href="http://pedro.alvarezpiedehierro.com/wp-content/uploads/2013/07/wpid-DSC_0510.jpg"><img class="size-full  aligncenter" title="DSC_0510.jpg" alt="Vuelo de vuelta a España tras conseguir el trabajo " src="http://pedro.alvarezpiedehierro.com/wp-content/uploads/2013/07/wpid-DSC_0510.jpg" width="500" height="375" /></a>
 </p>
 
 Por tanto querido lector, ya sabe que estaré en **Badajoz** unos días **(hasta
