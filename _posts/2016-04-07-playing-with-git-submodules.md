@@ -123,8 +123,12 @@ Also note that this command will remove any untracked file from your tree.
 
 ## Conclusion
 
-The best approach move to a different version in the parent repo and updating
-the submodules will be to run:
+After investigating theses cases, I can say that it will be possible to use
+multiple git submodules, and that is not going to be a nightmare to work with
+them.
+
+The best approach to move to a different version in the parent repository
+and updating the submodules in one go will be:
 
     git submodule init     # Initialize possible new repositories
     git submodule sync     # Update possible changes in urls
