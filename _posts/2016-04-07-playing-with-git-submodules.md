@@ -3,8 +3,8 @@ layout: post
 title: Playing with git submodules
 date: 2016-04-07 12:27:10.000000000 +01:00
 tags:
-- DNS
-- dominios
+- Git
+- submodules
 status: publish
 type: post
 published: true
