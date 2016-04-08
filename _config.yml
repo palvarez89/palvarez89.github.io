@@ -27,6 +27,6 @@ github:
   repo:              https://github.com/palvarez89
 
 pages_list:
-  About: '/about'
+  About Me: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
