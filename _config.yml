@@ -34,3 +34,7 @@ pages_list:
 # To get TOC support
 
 markdown: kramdown
+
+kramdown:
+   syntax_highlighter: rouge
+   toc_levels: 2..4
