@@ -2,6 +2,7 @@
 layout: post
 title: Isolated self-managed environments in the same OpenStack cloud
 date: 2019-02-06 17:07:10.000000000 +01:00
+toc: true
 tags:
 - OpenStack
 - Domain Admin
@@ -18,8 +19,6 @@ author:
   first_name: 'Pedro'
   last_name: 'Alvarez Piedehierro'
 ---
-
-{:toc}
 
 ## State of the art in OpenStack
 
