@@ -19,6 +19,8 @@ author:
   last_name: 'Alvarez Piedehierro'
 ---
 
+{:toc}
+
 ## State of the art in OpenStack
 
 ### Using domains
