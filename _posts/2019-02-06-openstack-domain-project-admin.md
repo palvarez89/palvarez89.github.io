@@ -150,14 +150,14 @@ And then, further changes in the policy file were needed to let project-admins a
 
 ### Admin role per domain
 
-We are now creating a drole called admin-$DOMAIN_ID for each domain created. With this approach and modifying the keystone policy file to give the user access to all the domain admin operations, see
+We are now creating a drole called `admin-$DOMAIN_ID` for each domain created. With this approach and modifying the keystone policy file to give the user access to all the domain admin operations, see
 
 Policy:
 
     "admin_required": "role:admin or role:admin-%(domain_id)s"
 
 
-## admin role within domain, not in default domain
+### admin role within domain, not in default domain
 
 To create the role
 
@@ -167,7 +167,7 @@ To create the role
 The result doesn't give the domain admin user any extra permissions
 
 
-## domain-admin role for the domain admins
+### domain-admin role for the domain admins
 
 To create the role
 
@@ -181,7 +181,7 @@ Policy:
 This is the closest result to what we want, the only problem is that the "domain-admin" is allowed to assign the "admin" role to any user.
 
 
-## domain-admin role, and redefining grant rules
+### domain-admin role, and redefining grant rules
 
 To create the role
 
@@ -196,7 +196,7 @@ Policy:
     "identity:create_grant": "rule:old_grant_rule and '_member_':%(target.role.name)s",
 
 
-## Continuing previous example, letting domain-admins assign that role, and project-admins also its role
+### Continuing previous example, letting domain-admins assign that role, and project-admins also its role
 
 For domain-admin to delegate role
 
