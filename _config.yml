@@ -30,3 +30,7 @@ pages_list:
   About Me: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+
+# To get TOC support
+
+markdown: kramdown
