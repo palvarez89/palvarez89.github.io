@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolited self-managed environments in the same OpenStack cloud
+title: Isolated self-managed environments in the same OpenStack cloud
 date: 2019-02-06 17:07:10.000000000 +01:00
 tags:
 - OpenStack
