@@ -113,7 +113,7 @@ A domain-admin will be able, given the policy above, to delegate its role:
 
 ### Creating a project-admin role to avoid using the admin one (policy changes combined with domain-admin changes)
 
-For the same reasons as with domain admins, don't want to use the `admin` role to create project admins.
+For the same reasons as with domain admins, we don't want to use the `admin` role to create project admins.
 
 To create the role:
 
