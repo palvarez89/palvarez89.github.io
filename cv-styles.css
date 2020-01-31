@@ -1,0 +1,27 @@
+li {
+	padding-left: 0.5em;
+}
+
+h1,h3,h2,h4,h6 {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+}
+
+h2 {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	text-align: left;
+}
+
+h4 {
+	color: #000000;
+}
+
+h6 {
+	font-size: 0.7em;
+	color: #7a7a7a;
+	text-align: left;
+	margin-bottom: -1em;
+	margin-top: 3em;
+}
