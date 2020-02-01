@@ -20,4 +20,3 @@ Or contact me:
 * Drop me an email at [pedro@alvarezpiedehierro.com](mailto:pedro@alvarezpiedehierro.com)
 * See my [LinkedIn](http://www.linkedin.com/in/pedroalvarezpiedehierro)
 * Follow me on [Twitter](https://twitter.com/palvarez1989)
-* Add me to your circles in [Google+](https://plus.google.com/+PedroAlvarezPiedehierro)
