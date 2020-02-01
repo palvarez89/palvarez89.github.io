@@ -1,7 +1,14 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<article class="page">
-  {{ content }}
-</article>
+  {% include head.html %}
+  {% include google_analytics.html %}
+  <body>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>
