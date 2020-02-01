@@ -12,7 +12,7 @@ You can have a look at:
 * My [GitHub profile](https://github.com/palvarez89)
 * My [GitLab profile](https://gitlab.com/palvarez89)
 * Open-source contributions in [Open Hub](https://www.openhub.net/accounts/palvarez89)
-* Some of my [Android apps](https://play.google.com/store/search?q=pub:PALVAREZSOFT)
+* Some of my [Android apps](https://play.google.com/store/apps/developer?id=PALVAREZSOFT)
 * My <a href="/cv" target="_new">Curriculum Vitae</a>
 
 Or contact me:
