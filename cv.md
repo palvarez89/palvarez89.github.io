@@ -35,7 +35,7 @@ Things that I've done in my spare time, or even at work, but that aren't related
 
 ## Employment History
 
-### Software and Systems Engineer & Tech Lead, Codethink
+### **Codethink** - Software and Systems Engineer & Tech Lead
 
 
 ###### 11/2019 – Present
@@ -81,7 +81,7 @@ used remote execution implementations.
 - Developed Python libraries for flashing and loading code into the ANC board.
 
 
-### Software and Systems Engineer, Codethink
+### **Codethink** - Software and Systems Engineer
 
 Involved in and developed a wide variety of projects
 
