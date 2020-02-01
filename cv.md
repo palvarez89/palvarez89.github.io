@@ -136,7 +136,7 @@ Analysis and Design, AI, Robotics.
 * Ansible, Docker, Kubernetes, Terraform
 * Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI.
 * OpenStack, AWS, EKS, EFS.
-* Linux
+* Linux, systemd.
 
 
 ## Links Of Interest
@@ -154,4 +154,4 @@ Analysis and Design, AI, Robotics.
 
 ## Personal Interests
 
-Basketball, Photography, FLOSS.
+Basketball, Photography, Home Automation, FLOSS.
