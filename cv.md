@@ -141,9 +141,9 @@ Analysis and Design, AI, Robotics.
 
 ## Links Of Interest
 
-- **GitHub:** https://github.com/palvarez89
-- **GitLab:** https://gitlab.com/palvarez89
-- **Open Hub:** https://www.openhub.net/accounts/palvarez89
+- **GitHub:** <https://github.com/palvarez89>
+- **GitLab:** <https://gitlab.com/palvarez89>
+- **Open Hub:** <https://www.openhub.net/accounts/palvarez89>
 
 
 ## Languages
