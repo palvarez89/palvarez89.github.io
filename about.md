@@ -10,7 +10,8 @@ Hi!
 You can have a look at:
 
 * My [GitHub profile](https://github.com/palvarez89)
-* Open-source contributions in [OpenHub](https://www.openhub.net/accounts/palvarez89)
+* My [GitLab profile](https://gitlab.com/palvarez89)
+* Open-source contributions in [Open Hub](https://www.openhub.net/accounts/palvarez89)
 * Some of my [Android apps](https://play.google.com/store/search?q=pub:PALVAREZSOFT)
 * My [Curriculum Vitae](/cv)
 
