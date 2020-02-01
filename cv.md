@@ -5,9 +5,12 @@ title: Curriculum
 
 # Pedro Alvarez Piedehierro
 
-- Manchester, UK
-- **Email:** pedro@alvarezpiedehierro.com
-- **Phone:** +44 (0)750 8939 171
+<p style="text-align: right;">
+    Manchester, UK<br>
+    <strong>Email:</strong> <a href="mailto:pedro@alvarezpiedehierro.com">pedro@alvarezpiedehierro.com</a> <br>
+    <strong>Phone:</strong> <a href="tel:+447508939171">+44 (0)750 8939 171</a> <br>
+</p>
+
 
 ## Personal Statement
 
