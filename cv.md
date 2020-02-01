@@ -122,11 +122,11 @@ Involved in and developed a wide variety of projects
 ## Education
 
 ###### 09/2007 - 09/2012
-#### MSc (2:1): Computer Science Engineering
-Universidad de Extremadura, Cáceres, Spain
+#### MSc Computer Science Engineering (2:1)
 
-- **Key Modules:** Mathematics, Unix, Networking, Databases, Software Analysis and Design,
-AI, Robotics.
+**Universidad de Extremadura**, Cáceres, Spain - **5 years degree** covering many
+different areas, including Mathematics, Unix, Networking, Databases, Software
+Analysis and Design, AI, Robotics.
 
 
 ## Programming Languages & Tools
