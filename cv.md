@@ -47,6 +47,9 @@ related to a project:
 ###### 11/2019 – Present
 #### TroveKube, Git mirroring service on Kubernetes
 
+Initial effort to migrate Baserock Trove (<https://git.baserock.org>) from a
+monolithic server to a microservices architecture.
+
 - Migrated Baserock's monolithic mirroring service to Python 3
 - Created containers for each of the services in Docker, and a PoC using
   docker-compose.
@@ -59,12 +62,20 @@ related to a project:
 ###### 07/2019 - 11/2019
 #### Autonomous driving demo for ELCE
 
-- Built a Linux system from scratch for the NVIDIA Jetson Nano, using Freedesktop SDK and BuildStream.
+Robots (NVIDIA Jetson Nano boards with wheels and a camera) that use AI to
+follow a road, and stop when necessary.
+
+- Built a Linux system from scratch for the NVIDIA Jetson Nano, using
+  Freedesktop SDK and BuildStream.
 - Implemented OTA upgrades for the rootfs and kernel using OSTree.
 
 
 ###### 04/2019 - 07/2019
 #### Remote Execution API Test Suite
+
+To provide a continuous way of testing the compatibility between different
+Remote Execution clients (Bazel, RECC, BuildStream) and servers (Buildbarn,
+Buildfarm, BuildGrid).
 
 - Architected and initiated current implementation of the project.
 - Created a test suite to check API stability of Bazel remote execution,
@@ -74,8 +85,11 @@ related to a project:
 
 
 ###### 01/2019 - 04/2019
-#### Deploy and maintain OpenStack on ARM64
+#### OpenStack on ARM64 servers
 
+Deploy and maintain an ARM64 OpenStack deployment to make sure that it was
+possible, and to fix any problems found. The main goal was to add ARM64
+as a target on OpenStack CI.
 
 - Automated deployments of OpenStack and Ceph to ARM64 machines hosted in
   packet.net.
@@ -89,6 +103,8 @@ related to a project:
 
 ###### 01/2017 - 12/2018
 #### Application for configuring and working with ANC chips
+
+Develop an application to help with the tuning and flashing of the ANC devices.
 
 - Team and technical leader responsibilities.
 - Created and maintained CI/CD pipelines in Jenkins, setting the best practices
