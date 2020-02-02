@@ -14,33 +14,47 @@ title: Curriculum
 
 ## Personal Statement
 
-**Computer Science Engineer** with experience working with embedded devices and Linux systems. Main areas of expertise include: build systems, system integration (including building Linux systems from scratch), infrastrucutre, open-source technologies and culture. Special interest on automation and reproducibility, infrastructure as code, CI/CD,  and contributing to open-source projects. Team player, always willing to help, and to share knowledge.
+**Computer Science Engineer** with experience working with embedded devices and
+Linux systems. Main areas of expertise include: build systems, system
+integration (including building Linux systems from scratch), infrastrucutre,
+open-source technologies and culture. Special interest on automation and
+reproducibility, infrastructure as code, CI/CD, and contributing to open-source
+projects. Team player, always willing to help, and to share knowledge.
 
 
 ## Other Relevant Experience
 
-Things that I've done in my spare time, or even at work, but that aren't related to a project:
+Things that I've done in my spare time, or even at work, but that aren't
+related to a project:
 
-- Actively participated in open-source communities when working on related projects.
+- Actively participated in open-source communities when working on related
+  projects.
 - Maintained the Baserock project and also its infrastructure for years.
-- Developed multiple automation scripts using Ansible for deploying and maintaining various pieces of infrastructure for the Baserock project, EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN, Docker...
-- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018, 2019, and co-chairing in 2020.
-- Taken part on SoW writing and review, requirements gathering on site, estimates, and pre-sales calls.
+- Developed multiple automation scripts using Ansible for deploying and
+  maintaining various pieces of infrastructure for the Baserock project,
+  EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN,
+  Docker...
+- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018, 2019, and
+  co-chairing in 2020.
+- Taken part on SoW writing and review, requirements gathering on site,
+  estimates, and pre-sales calls.
 
 
 ## Employment History
 
 ### **Codethink** - Software and Systems Engineer & Tech Lead
 
-
 ###### 11/2019 – Present
 #### TroveKube, Git mirroring service on Kubernetes
 
 - Migrated Baserock's monolithic mirroring service to Python 3
-- Created containers for each of the services in Docker, and a PoC using docker-compose.
+- Created containers for each of the services in Docker, and a PoC using
+  docker-compose.
 - Adapted the solution to run on Kubernetes running locally (minikube)
-- Developed a Helm chart, to deploy easily the service, including EFS and SSL support.
+- Developed a Helm chart, to deploy easily the service, including EFS and SSL
+  support.
 - Used Terraform for AWS deployments of ELK and EFS.
+
 
 ###### 07/2019 - 11/2019
 #### Autonomous driving demo for ELCE
@@ -53,27 +67,36 @@ Things that I've done in my spare time, or even at work, but that aren't related
 #### Remote Execution API Test Suite
 
 - Architected and initiated current implementation of the project.
-- Created a test suite to check API stability of Bazel remote execution, against the 3 most
-used remote execution implementations.
-- Used Amazon EKS with Terraform, to then deploy and test using Kubernetes from Gitlab CI.
+- Created a test suite to check API stability of Bazel remote execution,
+  against the 3 most used Remote Execution implementations.
+- Used Amazon EKS with Terraform, to then deploy and test using Kubernetes from
+  Gitlab CI.
 
 
 ###### 01/2019 - 04/2019
 #### Deploy and maintain OpenStack on ARM64
 
-- Automated deployments of OpenStack and Ceph to ARM64 machines hosted in packet.net.
-- Upstreamed (via Gerrit)  some fixes needed in kolla/kolla-ansible to support ARM64 in their Docker templates and Ansible scripts.
-- Created Ansible scripts to automatically debug all the VLANs from/to all the nodes.
-- Researched ways to have isolated self-managed domains, to workaround current limitations in OpenStack.
+
+- Automated deployments of OpenStack and Ceph to ARM64 machines hosted in
+  packet.net.
+- Upstreamed (via Gerrit)  some fixes needed in kolla/kolla-ansible to support
+  ARM64 in their Docker templates and Ansible scripts.
+- Created Ansible scripts to automatically debug all the VLANs from/to all the
+  nodes.
+- Researched ways to have isolated self-managed domains, to workaround current
+  limitations in OpenStack.
 
 
 ###### 01/2017 - 12/2018
 #### Application for configuring and working with ANC chips
 
 - Team and technical leader responsibilities.
-- Created and maintained CI/CD pipelines in Jenkins, setting the best practices for all the teams.
-- Architected and implemented an RPC to communicate Python with legacy software in Matlab.
-- Developed Python libraries for flashing and loading code into the ANC development board.
+- Created and maintained CI/CD pipelines in Jenkins, setting the best practices
+  for all the teams.
+- Architected and implemented an RPC to communicate Python with legacy software
+  in Matlab.
+- Developed Python libraries for flashing and loading code into the ANC
+  development board.
 
 
 ### **Codethink** - Software and Systems Engineer
@@ -83,10 +106,12 @@ Involved in and developed a wide variety of projects
 ###### 08/2013 - 01/2017
 #### Baserock
 
-- Integrated and maintained software in a set of definitions of Linux systems. OpenStack, Systemd, linux kernel, graphics stack, etc.
+- Integrated and maintained software in a set of definitions of Linux systems.
+  OpenStack, Systemd, linux kernel, graphics stack, etc.
 - Troubleshoot integration problems from the application to kernel layer.
 - Continuous investigation about new possible applications of Baserock.
-- Created and maintained the core infrastructure of the project, using Ansible and OpenStack.
+- Created and maintained the core infrastructure of the project, using Ansible
+  and OpenStack.
 - Implemented and improved existing tooling to support atomic system upgrades.
 - Added support and ported Baserock to new architectures (POWER, ARMv6, ARMv7)
 - Interacted with various Open Source communities,
@@ -101,7 +126,8 @@ Involved in and developed a wide variety of projects
 #### Immut
 
 - Investigation and use of Ostree repositories.
-- Involved with Atomic community to work on new goals for tools like 'rpm-ostree'.
+- Involved with Atomic community to work on new goals for tools like
+  'rpm-ostree'.
 - Used tools like Docker and Packer.
 
 #### Software dependency visualizer
@@ -116,9 +142,9 @@ Involved in and developed a wide variety of projects
 ###### 09/2007 - 09/2012
 #### MSc Computer Science Engineering (2:1)
 
-**Universidad de Extremadura**, Cáceres, Spain - **5 years degree** covering many
-different areas, including Mathematics, Unix, Networking, Databases, Software
-Analysis and Design, AI, Robotics.
+**Universidad de Extremadura**, Cáceres, Spain - **5 years degree** covering
+many different areas, including Mathematics, Unix, Networking, Databases,
+Software Analysis and Design, AI, Robotics.
 
 
 ## Programming Languages & Tools
