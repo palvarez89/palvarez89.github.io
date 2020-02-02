@@ -14,8 +14,7 @@ title: Curriculum
 
 ## Personal Statement
 
-**Computer science engineer** with experience working in embedded devices and Linux based platforms. Main areas of expertise include: Build systems, system integration, infrastructure, open-source technologies and methodologies. Automation and reproducibility lover, open-source and team player, and DevOps/Integrator mind. Always willing to help, and to share knowledge.
-
+**Computer Science Engineer** with experience working with embedded devices and Linux systems. Main areas of expertise include: build systems, system integration (including building Linux systems from scratch), infrastrucutre, open-source technologies and culture. Special interest on automation and reproducibility, infrastructure as code, CI/CD,  and contributing to open-source projects. Team player, always willing to help, and to share knowledge.
 
 ## Key Achievements
 
