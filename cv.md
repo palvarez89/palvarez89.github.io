@@ -16,13 +16,6 @@ title: Curriculum
 
 **Computer Science Engineer** with experience working with embedded devices and Linux systems. Main areas of expertise include: build systems, system integration (including building Linux systems from scratch), infrastrucutre, open-source technologies and culture. Special interest on automation and reproducibility, infrastructure as code, CI/CD,  and contributing to open-source projects. Team player, always willing to help, and to share knowledge.
 
-## Key Achievements
-
-### Codethink:
-
-- Learned and developed skills on automation. Co-started the Baserock Operations team.
-- Promoted to Tech and Team leader. Successfully led a team of 5 people for two years.
-
 
 ## Other Relevant Experience
 
@@ -31,8 +24,8 @@ Things that I've done in my spare time, or even at work, but that aren't related
 - Actively participated in open-source communities when working on related projects.
 - Maintained the Baserock project and also its infrastructure for years.
 - Developed multiple automation scripts using Ansible for deploying and maintaining various pieces of infrastructure for the Baserock project, EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN, Docker...
-- Helped to organise PyCon Spain 2017 and co-organised PyLondinium 2018 and 2019
-- Taken part on SoW writing and review, requirements gathering on site, estimates, and sales calls.
+- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018, 2019, and co-chairing in 2020.
+- Taken part on SoW writing and review, requirements gathering on site, estimates, and pre-sales calls.
 
 
 ## Employment History
@@ -80,7 +73,7 @@ used remote execution implementations.
 - Team and technical leader responsibilities.
 - Created and maintained CI/CD pipelines in Jenkins, setting the best practices for all the teams.
 - Architected and implemented an RPC to communicate Python with legacy software in Matlab.
-- Developed Python libraries for flashing and loading code into the ANC board.
+- Developed Python libraries for flashing and loading code into the ANC development board.
 
 
 ### **Codethink** - Software and Systems Engineer
