@@ -34,3 +34,8 @@ h6 {
 p {
 	text-indent: 50px;
 }
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
