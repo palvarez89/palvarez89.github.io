@@ -47,11 +47,10 @@ related to a project:
 ###### 05/2020 – 07/2020
 #### Remote-execution setup on OpenStack
 
-Deployed a remote-execution solution on customer's infrastructure.
+Deploy a remote-execution solution on customer's infrastructure.
 - Used Terraform to automate the deployment of instances on OpenStack
 - Ansible scripts to setup all instances with the different BuildBarn services
 - Updated configuration of projects to build on remote execution
-- Created custom runners for BuildBarn
 - Zuul CI for automation
 
 
@@ -70,7 +69,7 @@ architecture to develop a PR-like workflow for patches to SVN.
 #### SVN split to Git automatic migration
 
 Automation of a previously manual process for migrating libraries
-from a mono repo in SVN to individual git projects.
+from a mono-repo in SVN to individual git projects.
 
 - Developed scripts and libraries in python to handle the automatic
   migration of hundreds of libraries from SVN to Git.
@@ -83,7 +82,7 @@ from a mono repo in SVN to individual git projects.
 Initial effort to migrate Baserock Trove (<https://git.baserock.org>) from a
 monolithic server to a microservices architecture.
 
-- Migrated Baserock's monolithic mirroring service to Python 3
+- Migrated Baserock's monolithic mirroring service to python3
 - Created containers for each of the services in Docker, and a PoC using
   docker-compose.
 - Adapted the solution to run on Kubernetes running locally (minikube)
@@ -113,15 +112,15 @@ Buildfarm, BuildGrid).
 - Architected and initiated current implementation of the project.
 - Created a test suite to check API stability of Bazel remote execution,
   against the 3 most used Remote Execution implementations.
-- Used Amazon EKS with Terraform, to then deploy and test using Kubernetes from
-  Gitlab CI.
+- Used Amazon EKS with Terraform to run the services and tests on
+  Kubernetes from Gitlab CI.
 
 
 ###### 01/2019 - 04/2019
 #### OpenStack on ARM64 servers
 
-Deploy and maintain an ARM64 OpenStack deployment to make sure that it was
-possible, and to fix any problems found. The main goal was to add ARM64
+Deploy and maintain an ARM64 OpenStack cloud to validate the architecture
+is supported, and to fix any problems found. The main goal is to add ARM64
 as a target on OpenStack CI.
 
 - Automated deployments of OpenStack and Ceph to ARM64 machines hosted in
