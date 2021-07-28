@@ -217,8 +217,3 @@ Software Analysis and Design, AI, Robotics.
 
 - **Spanish:** Native.
 - **English:** Professional.
-
-
-## Personal Interests
-
-Basketball, Photography, Home Automation, FLOSS.
