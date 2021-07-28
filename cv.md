@@ -198,11 +198,11 @@ Software Analysis and Design, AI, Robotics.
 
 ## Programming Languages & Tools
 
-* Python, Shell, Java.
-* Basic knowledge of C++, JavaScript and some others.
-* Ansible, Docker, Kubernetes, Terraform
-* Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI.
-* OpenStack, AWS, EKS, EFS.
+* Python, Shell, Java
+* Basic knowledge of C++, Rust and some others.
+* Ansible, Docker, Kubernetes, Terraform.
+* Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
+* OpenStack, AWS.
 * Linux, systemd.
 
 
