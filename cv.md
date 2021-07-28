@@ -44,7 +44,41 @@ related to a project:
 
 ### **Codethink** - Software and Systems Engineer & Tech Lead
 
-###### 11/2019 – Present
+
+###### 05/2020 – 07/2020
+#### Remote-execution setup on OpenStack
+
+Deployed a remote-execution solution on customer's infrastructure.
+- Used Terraform to automate the deployment of instances on OpenStack
+- Ansible scripts to setup all instances with the different BuildBarn services
+- Updated configuration of projects to build on remote execution
+- Created custom runners for BuildBarn
+- Zuul CI for automation
+
+
+###### 06/2020 – 02/2021
+#### Python services for internal development workflow
+
+Developed set of microservices on customer's multi-environment
+architecture to develop a PR-like workflow for patches to SVN.
+- Integrated with Kafka messaging queues from external services
+  to track validation progress
+- Microservices running on a multi-environment architecture
+- Collaboration with multiple customer teams to get our solution
+  integrated.
+
+###### 02/2020 – 05/2020
+#### SVN split to Git automatic migration
+
+Automation of a previously manual process for migrating libraries
+from a mono repo in SVN to individual git projects.
+
+- Developed scripts and libraries in python to handle the automatic
+  migration of hundreds of libraries from SVN to Git.
+- Used Jenkins pipelines for the automation process, triggered via
+  GitHub PRs
+
+###### 11/2019 – 01/2020
 #### TroveKube, Git mirroring service on Kubernetes
 
 Initial effort to migrate Baserock Trove (<https://git.baserock.org>) from a
