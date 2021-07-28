@@ -16,8 +16,8 @@ title: Curriculum
 
 **Computer Science Engineer** with experience working with embedded devices and
 Linux systems. Main areas of expertise include: build systems, system
-integration (including building Linux systems from scratch), infrastrucutre,
-open-source technologies and culture. Special interest on automation and
+integration (including building Linux systems from scratch), infrastructure,
+open-source technologies and culture. Special interest in automation and
 reproducibility, infrastructure as code, CI/CD, and contributing to open-source
 projects. Team player, always willing to help, and to share knowledge.
 
@@ -35,7 +35,7 @@ related to a project:
   EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN,
   Docker...
 - Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018 and 2019.
-- Taken part on SoW writing and review, requirements gathering on site,
+- Took part in writing and reviewing SoWs, requirements gathering on site,
   estimates, and pre-sales calls.
 
 
@@ -57,7 +57,7 @@ Deploy a remote-execution solution on customer's infrastructure.
 ###### 06/2020 – 02/2021
 #### Python services for internal development workflow
 
-Developed set of microservices on customer's multi-environment
+Develop a set of microservices on customer's multi-environment
 architecture to develop a PR-like workflow for patches to SVN.
 - Integrated with Kafka messaging queues from external services
   to track validation progress
@@ -109,7 +109,7 @@ To provide a continuous way of testing the compatibility between different
 Remote Execution clients (Bazel, RECC, BuildStream) and servers (Buildbarn,
 Buildfarm, BuildGrid).
 
-- Architected and initiated current implementation of the project.
+- Architected and initiated initial implementation of the project.
 - Created a test suite to check API stability of Bazel remote execution,
   against the 3 most used Remote Execution implementations.
 - Used Amazon EKS with Terraform to run the services and tests on
