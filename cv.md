@@ -34,8 +34,7 @@ related to a project:
   maintaining various pieces of infrastructure for the Baserock project,
   EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN,
   Docker...
-- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018, 2019, and
-  co-chairing in 2020.
+- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018 and 2019.
 - Taken part on SoW writing and review, requirements gathering on site,
   estimates, and pre-sales calls.
 
