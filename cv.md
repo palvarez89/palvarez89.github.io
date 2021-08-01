@@ -21,22 +21,14 @@ open-source technologies and culture. Special interest in automation and
 reproducibility, infrastructure as code, CI/CD, and contributing to open-source
 projects. Team player, always willing to help, and to share knowledge.
 
+## Programming Languages & Tools
 
-## Other Relevant Experience
-
-Things that I've done in my spare time, or even at work, but that aren't
-related to a project:
-
-- Actively participated in open-source communities when working on related
-  projects.
-- Maintained the Baserock project and also its infrastructure for years.
-- Developed multiple automation scripts using Ansible for deploying and
-  maintaining various pieces of infrastructure for the Baserock project,
-  EtCaterva group and myself: Nginx, Apache, Django, Gerrit, Jenkins, OpenVPN,
-  Docker...
-- Helped to organise PyCon Spain 2017. Co-organised PyLondinium 2018 and 2019.
-- Took part in writing and reviewing SoWs, requirements gathering on site,
-  estimates, and pre-sales calls.
+* Python, Shell, Java
+* Basic knowledge of C++, Rust and some others.
+* Ansible, Docker, Kubernetes, Terraform.
+* Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
+* OpenStack, AWS.
+* Linux, systemd.
 
 
 ## Employment History
@@ -175,24 +167,8 @@ many different areas, including Mathematics, Unix, Networking, Databases,
 Software Analysis and Design, AI, Robotics.
 
 
-## Programming Languages & Tools
-
-* Python, Shell, Java
-* Basic knowledge of C++, Rust and some others.
-* Ansible, Docker, Kubernetes, Terraform.
-* Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
-* OpenStack, AWS.
-* Linux, systemd.
-
-
 ## Links Of Interest
 
 - **GitHub:** <https://github.com/palvarez89>
 - **GitLab:** <https://gitlab.com/palvarez89>
 - **Open Hub:** <https://www.openhub.net/accounts/palvarez89>
-
-
-## Languages
-
-- **Spanish:** Native.
-- **English:** Professional.
