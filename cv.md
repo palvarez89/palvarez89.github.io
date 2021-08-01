@@ -125,10 +125,10 @@ as a target on OpenStack CI.
 
 - Automated deployments of OpenStack and Ceph to ARM64 machines hosted in
   packet.net.
-- Upstreamed (via Gerrit)  some fixes needed in kolla/kolla-ansible to support
+- Upstreamed (via Gerrit) some fixes needed in kolla/kolla-ansible to support
   ARM64 in their Docker templates and Ansible scripts.
-- Created Ansible scripts to automatically debug all the VLANs from/to all the
-  nodes.
+- Created extra Ansible scripts to help with the deployment automation and
+  debugging.
 - Researched ways to have isolated self-managed domains, to workaround current
   limitations in OpenStack.
 
@@ -136,7 +136,7 @@ as a target on OpenStack CI.
 ###### 01/2017 - 12/2018
 #### Application for configuring and working with ANC chips
 
-Develop an application to help with the tuning and flashing of the ANC devices.
+Develop an application to help with the tuning and flashing of ANC devices.
 
 - Team and technical leader responsibilities.
 - Created and maintained CI/CD pipelines in Jenkins, setting the best practices
@@ -152,7 +152,7 @@ Develop an application to help with the tuning and flashing of the ANC devices.
 Involved in and developed a wide variety of projects
 
 ###### 08/2013 - 01/2017
-#### Baserock
+#### Baserock and others
 
 - Integrated and maintained software in a set of definitions of Linux systems.
   OpenStack, Systemd, linux kernel, graphics stack, etc.
@@ -163,26 +163,6 @@ Involved in and developed a wide variety of projects
 - Implemented and improved existing tooling to support atomic system upgrades.
 - Added support and ported Baserock to new architectures (POWER, ARMv6, ARMv7)
 - Interacted with various Open Source communities,
-- …
-
-#### GENIVI Baseline
-
-- Integrated and maintained software following the GENIVI Baseline compliance.
-- Involved on getting the GENIVI Development Platform (GDP) also integrated.
-- Delivered a Hands-on session in the GENIVI AMM
-
-#### Immut
-
-- Investigation and use of Ostree repositories.
-- Involved with Atomic community to work on new goals for tools like
-  'rpm-ostree'.
-- Used tools like Docker and Packer.
-
-#### Software dependency visualizer
-
-- Research about different ways of visualizing the data.
-- Development of a prototype using JavaScript, and TypeScript.
-- Use of JS libraries like d3.js to construct the user interface.
 
 
 ## Education
