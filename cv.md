@@ -101,7 +101,7 @@ To provide a continuous way of testing the compatibility between different
 Remote Execution clients (Bazel, RECC, BuildStream) and servers (Buildbarn,
 Buildfarm, BuildGrid).
 
-- Architected and initiated initial implementation of the project.
+- Architected and started initial implementation of the project.
 - Created a test suite to check API stability of Bazel remote execution,
   against the 3 most used Remote Execution implementations.
 - Used Amazon EKS with Terraform to run the services and tests on
@@ -130,7 +130,6 @@ as a target on OpenStack CI.
 
 Develop an application to help with the tuning and flashing of ANC devices.
 
-- Team and technical leader responsibilities.
 - Created and maintained CI/CD pipelines in Jenkins, setting the best practices
   for all the teams.
 - Architected and implemented an RPC to communicate Python with legacy software
