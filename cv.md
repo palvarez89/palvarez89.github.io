@@ -132,10 +132,10 @@ Develop an application to help with the tuning and flashing of ANC devices.
 
 - Created and maintained CI/CD pipelines in Jenkins, setting the best practices
   for all the teams.
-- Architected and implemented an RPC to communicate Python with legacy software
-  in Matlab.
+- Architected and implemented an RPC server to communicate Python with legacy
+  software in Matlab.
 - Developed Python libraries for flashing and loading code into the ANC
-  development board.
+  development board, and to emulate the process for testing purposes.
 
 
 ### **Codethink** - Software and Systems Engineer
