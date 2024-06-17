@@ -22,20 +22,38 @@ projects. Team player, always willing to help, and to share knowledge.
 
 ## Programming Languages & Tools
 
-* Python, Shell, Java
+* Python, Shell, Go
 * Basic knowledge of C++, Rust and some others.
 * Ansible, Docker, Kubernetes, Terraform.
 * Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
-* OpenStack, AWS.
+* OpenStack, AWS, OpenNebula
 * Linux, systemd.
 
 
 ## Employment History
 
-### **Codethink** - Software and Systems Engineer & Tech Lead
+### **SoftIron** - Senior Systems Engineer 11/2021 - Current
 
+- Supoported and improved deployment tooling for our Ceph-based solution.
+- Integrate our solution with other solutions to create partnerships.
+- Networking switches configuration (Ubiquiti and SONiC).
+- Deployment experience on Datacentres.
+- Lead Open Sourcing internal benchmarking tooling.
+- Worked on initial integraions and automations on the cloud product
+- Created Public IaC examples and recorded videos to support the examples.
+- Helped develop a Kubernetes CSI driver for the cloud.
+- Automated sanity and end-to-end tests for the CSI
+- Set up an internal ArgoCD setup with multiple environments.
+- Implemented a Rancher node driver for our cloud product.
+- Created multiple Appliances for our marketplace integrating multiple
+  solutions (ownCloud, TrueNAS, Rancher, FilterBox...) using Libguestfs
+  and Packer.
+- Worked on adding support to more type of Appliances on the Marketplace.
+- Integrated a Kuberneted-based AI solution, using NVIDIA GPUs.
 
-###### 05/2020 – 07/2020
+### **Codethink** - Senior Software and Systems Engineer & Tech Lead
+
+###### 03/2021 – 08/2021
 #### Remote-execution setup on OpenStack
 
 Deploy a remote-execution solution on customer's infrastructure.
