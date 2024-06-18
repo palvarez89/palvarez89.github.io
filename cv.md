@@ -52,105 +52,35 @@ projects. Team player, always willing to help, and to share knowledge.
 
 ### **Codethink** - Senior Software and Systems Engineer & Tech Lead (01/2017 - 10/2021)
 
-#### Remote-execution setup on OpenStack
-
-Deploy a remote-execution solution on customer's infrastructure.
-- Used Terraform to automate the deployment of instances on OpenStack
-- Ansible scripts to setup all instances with the different BuildBarn services
-- Updated configuration of projects to build on remote execution
-- Zuul CI for automation
-
-
-###### 06/2020 – 02/2021
-#### Python services for internal development workflow
-
-Develop a set of microservices on customer's multi-environment
-architecture to develop a PR-like workflow for patches to SVN.
-- Integrated with Kafka messaging queues from external services
-  to track validation progress
-- Microservices running on a multi-environment architecture
-- Collaboration with multiple customer teams to get our solution
-  integrated.
-
-###### 02/2020 – 05/2020
-#### SVN split to Git automatic migration
-
-Automation of a previously manual process for migrating libraries
-from a mono-repo in SVN to individual git projects.
-
-- Developed scripts and libraries in python to handle the automatic
-  migration of hundreds of libraries from SVN to Git.
-- Used Jenkins pipelines for the automation process, triggered via
-  GitHub PRs
-
-###### 11/2019 – 01/2020
-#### TroveKube, Git mirroring service on Kubernetes
-
-Initial effort to migrate Baserock Trove (<https://git.baserock.org>) from a
-monolithic server to a microservices architecture.
-
-- Migrated Baserock's monolithic mirroring service to python3
-- Created containers for each of the services in Docker, and a PoC using
-  docker-compose.
-- Adapted the solution to run on Kubernetes running locally (minikube)
-- Developed a Helm chart, to deploy easily the service, including EFS and SSL
-  support.
-- Used Terraform for AWS deployments of ELK and EFS.
-
-
-###### 07/2019 - 11/2019
-#### Autonomous driving demo for ELCE
-
-Robots (NVIDIA Jetson Nano boards with wheels and a camera) that use AI to
-follow a road, and stop when necessary.
-
-- Built a Linux system from scratch for the NVIDIA Jetson Nano, using
-  Freedesktop SDK and BuildStream.
-- Implemented OTA upgrades for the rootfs and kernel using OSTree.
-
-
-###### 04/2019 - 07/2019
-#### Remote Execution API Test Suite
-
-To provide a continuous way of testing the compatibility between different
-Remote Execution clients (Bazel, RECC, BuildStream) and servers (Buildbarn,
-Buildfarm, BuildGrid).
-
-- Architected and started initial implementation of the project.
-- Created a test suite to check API stability of Bazel remote execution,
-  against the 3 most used Remote Execution implementations.
-- Used Amazon EKS with Terraform to run the services and tests on
-  Kubernetes from Gitlab CI.
-
-
-###### 01/2019 - 04/2019
-#### OpenStack on ARM64 servers
-
-Deploy and maintain an ARM64 OpenStack cloud to validate the architecture
-is supported, and to fix any problems found. The main goal is to add ARM64
-as a target on OpenStack CI.
-
-- Automated deployments of OpenStack and Ceph to ARM64 machines hosted in
-  packet.net.
-- Upstreamed (via Gerrit) some fixes needed in kolla/kolla-ansible to support
-  ARM64 in their Docker templates and Ansible scripts.
-- Created extra Ansible scripts to help with the deployment automation and
-  debugging.
-- Researched ways to have isolated self-managed domains, to workaround current
-  limitations in OpenStack.
-
-
-###### 01/2017 - 12/2018
-#### Application for configuring and working with ANC chips
-
-Develop an application to help with the tuning and flashing of ANC devices.
-
-- Created and maintained CI/CD pipelines in Jenkins, setting the best practices
-  for all the teams.
-- Architected and implemented an RPC server to communicate Python with legacy
-  software in Matlab.
-- Developed Python libraries for flashing and loading code into the ANC
-  development board, and to emulate the process for testing purposes.
+- **Remote-execution setup on OpenStack (06/2020 – 02/2021)**: Deployed a
+  remote-execution solution using Terraform for instance deployment and
+  Ansible for setup on OpenStack. Integrated projects with Zuul CI for
+  automation.
+- **Python services for internal development workflow (02/2020 – 05/2020)**:
+  Developed microservices for a PR-like workflow on SVN patches, integrated
+  with Kafka, and collaborated with multiple teams for integration.
+- **SVN split to Git automatic migration (11/2019 – 01/2020)**: Automated the
+  migration of libraries from SVN to Git using Python scripts and Jenkins
+  pipelines triggered by GitHub PRs.
+- **TroveKube, Git mirroring service on Kubernetes (07/2019 - 11/2019)**:
+  Migrated Baserock's mirroring service to Python3, containerized services
+  with Docker, deployed on Kubernetes using Helm charts, and used Terraform
+  for AWS deployments.
+- **Autonomous driving demo for ELCE (04/2019 - 07/2019)**: Built a Linux
+  system for NVIDIA Jetson Nano, implemented OTA upgrades using OSTree, and
+  developed AI for autonomous driving robots.
+- **Remote Execution API Test Suite (01/2019 - 04/2019)**: Created a test
+  suite for API stability between Remote Execution clients and servers,
+  deployed services on Amazon EKS using Terraform, and automated tests via
+  GitLab CI.
+- **OpenStack on ARM64 servers (01/2017 - 12/2018)**: Deployed and maintained
+  ARM64 OpenStack cloud, upstreamed fixes to kolla/kolla-ansible, created
+  Ansible scripts for automation and debugging, and researched self-managed
+  domain isolation in OpenStack.
+- **Application for configuring and working with ANC chips (01/2017 -
+  12/2018)**: Developed an application for tuning and flashing ANC devices,
+  maintained CI/CD pipelines in Jenkins, implemented an RPC server, and
+  developed Python libraries for ANC device management.
 
 
 ### **Codethink** - Software and Systems Engineer
