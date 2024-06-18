@@ -56,27 +56,34 @@ projects. Team player, always willing to help, and to share knowledge.
   remote-execution solution using Terraform for instance deployment and
   Ansible for setup on OpenStack. Integrated projects with Zuul CI for
   automation.
+
 - **Python services for internal development workflow (02/2020 – 05/2020)**:
   Developed microservices for a PR-like workflow on SVN patches, integrated
   with Kafka, and collaborated with multiple teams for integration.
+
 - **SVN split to Git automatic migration (11/2019 – 01/2020)**: Automated the
   migration of libraries from SVN to Git using Python scripts and Jenkins
   pipelines triggered by GitHub PRs.
+
 - **TroveKube, Git mirroring service on Kubernetes (07/2019 - 11/2019)**:
   Migrated Baserock's mirroring service to Python3, containerized services
   with Docker, deployed on Kubernetes using Helm charts, and used Terraform
   for AWS deployments.
+
 - **Autonomous driving demo for ELCE (04/2019 - 07/2019)**: Built a Linux
   system for NVIDIA Jetson Nano, implemented OTA upgrades using OSTree, and
   developed AI for autonomous driving robots.
+
 - **Remote Execution API Test Suite (01/2019 - 04/2019)**: Created a test
   suite for API stability between Remote Execution clients and servers,
   deployed services on Amazon EKS using Terraform, and automated tests via
   GitLab CI.
+
 - **OpenStack on ARM64 servers (01/2017 - 12/2018)**: Deployed and maintained
   ARM64 OpenStack cloud, upstreamed fixes to kolla/kolla-ansible, created
   Ansible scripts for automation and debugging, and researched self-managed
   domain isolation in OpenStack.
+
 - **Application for configuring and working with ANC chips (01/2017 -
   12/2018)**: Developed an application for tuning and flashing ANC devices,
   maintained CI/CD pipelines in Jenkins, implemented an RPC server, and
