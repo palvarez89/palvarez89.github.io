@@ -51,7 +51,22 @@ projects. Team player, always willing to help, and to share knowledge.
 - Worked on adding support to more type of Appliances on the Marketplace.
 - Integrated a Kuberneted-based AI solution, using NVIDIA GPUs.
 
-### **Codethink** - Senior Software and Systems Engineer & Tech Lead
+### **Codethink** - Senior Software and Systems Engineer & Tech Lead 01/2017 - 10/2021
+
+###### 01/2017 – 10/2021
+- Deploy a remote-execution solution on customer's infrastructure. Using
+  OpenStack, Terraform, Ansible, BuildBarn, Zuul CI.
+- Implement PR-like workflow for patches sent to SVN.
+- Automated migration of SVN mono-repo to Git.
+- Migrated monolithic mirroring tool to Kubernetes, on AWS (ELK and EFS)
+- Built a Linux system from scratch for NVIDIA Jetson Nano (Freedesktop SDK
+  and Buildstrem). Implemented OTA upgrades using OSTree.
+- Remote Execution API test suite
+
+
+
+
+
 
 ###### 03/2021 – 08/2021
 #### Remote-execution setup on OpenStack
