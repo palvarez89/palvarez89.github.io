@@ -22,53 +22,36 @@ projects. Team player, always willing to help, and to share knowledge.
 
 ## Programming Languages & Tools
 
-* Python, Shell, Go
-* Basic knowledge of C++, Rust and some others.
-* Ansible, Docker, Kubernetes, Terraform.
-* Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
-* OpenStack, AWS, OpenNebula
-* Linux, systemd.
+* **Languages:** Python, Shell, Go, basic knowledge of C++, Rust.
+* **Tools:** Ansible, Docker, Kubernetes, Terraform.
+* **CI/CD:** Git, Gerrit/GitHub/GitLab, Jenkins, Travis, GitLab CI, GitHub actions, Zuul CI.
+* **Cloud/Infrastructure:** OpenStack, AWS, OpenNebula
+* **Operating Systems:** Linux, systemd.
 
 
 ## Employment History
 
-### **SoftIron** - Senior Systems Engineer 11/2021 - Current
+### **SoftIron** - Senior Systems Engineer (11/2021 - Present)
 
 - Supoported and improved deployment tooling for our Ceph-based solution.
-- Integrate our solution with other solutions to create partnerships.
-- Networking switches configuration (Ubiquiti and SONiC).
-- Deployment experience on Datacentres.
-- Lead Open Sourcing internal benchmarking tooling.
-- Worked on initial integraions and automations on the cloud product
-- Created Public IaC examples and recorded videos to support the examples.
+- Integrated solutions to create partnerships.
+- Configured networking switches (Ubiquiti and SONiC).
+- Deployed solutions in data centres.
+- Led the open sourcing of internal benchmarking tools.
+- Developed initial integrations and automatios for cloud products.
+- Created Public IaC examples and instructional videos.
 - Helped develop a Kubernetes CSI driver for the cloud.
-- Automated sanity and end-to-end tests for the CSI
+- Automated end-to-end tests for the CSI
 - Set up an internal ArgoCD setup with multiple environments.
-- Implemented a Rancher node driver for our cloud product.
-- Created multiple Appliances for our marketplace integrating multiple
-  solutions (ownCloud, TrueNAS, Rancher, FilterBox...) using Libguestfs
-  and Packer.
+- Implemented a Rancher node driver for our cloud products.
+- Developed multiple appliances for the marketplace (ownCloud, TrueNAS,
+  Rancher, FilterBox...) using Libguestfs and Packer.
 - Worked on adding support to more type of Appliances on the Marketplace.
+- Expanded support for various appliance types in the marketplace.
 - Integrated a Kuberneted-based AI solution, using NVIDIA GPUs.
 
-### **Codethink** - Senior Software and Systems Engineer & Tech Lead 01/2017 - 10/2021
+### **Codethink** - Senior Software and Systems Engineer & Tech Lead (01/2017 - 10/2021)
 
-###### 01/2017 – 10/2021
-- Deploy a remote-execution solution on customer's infrastructure. Using
-  OpenStack, Terraform, Ansible, BuildBarn, Zuul CI.
-- Implement PR-like workflow for patches sent to SVN.
-- Automated migration of SVN mono-repo to Git.
-- Migrated monolithic mirroring tool to Kubernetes, on AWS (ELK and EFS)
-- Built a Linux system from scratch for NVIDIA Jetson Nano (Freedesktop SDK
-  and Buildstrem). Implemented OTA upgrades using OSTree.
-- Remote Execution API test suite
-
-
-
-
-
-
-###### 03/2021 – 08/2021
 #### Remote-execution setup on OpenStack
 
 Deploy a remote-execution solution on customer's infrastructure.
@@ -192,10 +175,10 @@ Involved in and developed a wide variety of projects
 
 ###### 09/2007 - 09/2012
 #### MSc Computer Science Engineering (2:1)
+#### **Universidad de Extremadura**, Cáceres, Spain
 
-**Universidad de Extremadura**, Cáceres, Spain - **5 years degree** covering
-many different areas, including Mathematics, Unix, Networking, Databases,
-Software Analysis and Design, AI, Robotics.
+- Comprehensive 5-year degree covering Mathematics, Unix, Networking, Databases,
+  Software Analysis and Design, AI, Robotics.
 
 
 ## Links Of Interest
