@@ -81,5 +81,5 @@ of this role I worked on:
 
 ## Education
 
-## MSc Computer Science Engineering (09/2007 - 09/2012)
+### MSc Computer Science Engineering (09/2007 - 09/2012)
 **Universidad de Extremadura**, Cáceres, Spain
