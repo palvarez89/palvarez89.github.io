@@ -38,8 +38,8 @@ projects. Team player, always willing to help, and to share knowledge.
 - Configured networking switches (Ubiquiti and SONiC).
 - Deployed solutions in data centres.
 - Led the open sourcing of internal benchmarking tools.
-- Developed initial integrations and automatios for cloud products.
-- Created Public IaC examples and instructional videos.
+- Developed initial integrations and automations for cloud products.
+- Created public IaC examples and instructional videos.
 - Helped develop a Kubernetes CSI driver for the cloud.
 - Automated end-to-end tests for the CSI
 - Set up an internal ArgoCD setup with multiple environments.
