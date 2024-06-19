@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum
+title: CV
 ---
 
 # Pedro Alvarez Piedehierro
