@@ -33,6 +33,7 @@ projects. Team player, always willing to help, and to share knowledge.
 
 ### **SoftIron** - Senior Systems Engineer (11/2021 - Present)
 
+Worked as part of the Product Engineering team
 - Supported and improved deployment tooling for our Ceph-based solution.
 - Integrated solutions to create partnerships.
 - Configured networking switches (Ubiquiti and SONiC).
