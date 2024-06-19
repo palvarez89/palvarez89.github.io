@@ -20,7 +20,7 @@ open-source technologies and culture. Special interest in automation and
 reproducibility, infrastructure as code, CI/CD, and contributing to open-source
 projects. Team player, always willing to help, and to share knowledge.
 
-## Programming Languages & Tools
+## Programming Languages and Tools
 
 * **Languages:** Python, Shell, Go, basic knowledge of C++, Rust.
 * **Tools:** Ansible, Docker, Kubernetes, Terraform.
