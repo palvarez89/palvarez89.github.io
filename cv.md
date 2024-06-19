@@ -33,7 +33,7 @@ projects. Team player, always willing to help, and to share knowledge.
 
 ### **SoftIron** - Senior Systems Engineer (11/2021 - Present)
 
-- Supoported and improved deployment tooling for our Ceph-based solution.
+- Supported and improved deployment tooling for our Ceph-based solution.
 - Integrated solutions to create partnerships.
 - Configured networking switches (Ubiquiti and SONiC).
 - Deployed solutions in data centres.
@@ -95,7 +95,7 @@ projects. Team player, always willing to help, and to share knowledge.
 
 - Integrated and maintained software in a set of definitions of Linux systems.
   OpenStack, Systemd, linux kernel, graphics stack, etc.
-- Troubleshot integration issues from the application to kernel layer.
+- Troubleshoot integration issues from the application to kernel layer.
 - Explored new applications for Baserock.
 - Maintained core infrastructure, using Ansible and OpenStack.
 - Improved tooling to support atomic system upgrades.
