@@ -34,18 +34,18 @@ actions, Zuul CI. OpenStack, AWS, OpenNebula. Linux, systemd
 SoftIron specialises in creating high-performance datacentre hardware and
 provides appliances for building private clouds. As a senior engineer I am
 responsible for:
+- Lead **Kubernetes** solutions and integrations: **CSI**, Rancher, Node
+  Driver, ArgoCD, **GPU** enablement.
+- Deployment and maintenance of internal **OpenStack**, using kolla-ansible
+  with **Ceph**.
 - Support deployment tooling for the storage solution.
 - Integrate external solutions to create strategic partnerships (ownCloud,
-  TrueNas, Rancher, Filterbox, etc.)
+  TrueNAS, Rancher, Filterbox, etc.)
 - Manage networking, servers, and services on a datacentre.
 - Lead open sourcing effort, and creation of public examples with supporting
   videos.
-- Lead **Kubernetes** solutions and integrations: CSI, Rancher, Node Driver,
-  ArgoCD, **GPU** enablement.
 - Maintenance of the Marketplace, expanding support for various appliance
   types, and tools used in the build process
-- Deployment and maintenance of internal **OpenStack**, using kolla-ansible
-  with **Ceph**.
 
 
 ### **Codethink** - Senior Software and Systems Engineer & Tech Lead (08/2013 - 10/2021)
