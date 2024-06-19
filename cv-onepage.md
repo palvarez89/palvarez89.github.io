@@ -14,11 +14,11 @@ title: CV OP
 ## Personal Statement
 
 **Computer Science Engineer** with experience working with embedded devices and
-Linux systems. Main areas of expertise include: build systems, system
+Linux systems. Main areas of expertise include build systems, system
 integration (including building Linux systems from scratch), infrastructure,
 open-source technologies and culture. Special interest in automation and
 reproducibility, infrastructure as code, CI/CD, and contributing to open-source
-projects. Team player, always willing to help, and to share knowledge.
+projects. A team player who is always willing to help and share knowledge.
 
 ## Programming Languages and Tools
 
@@ -33,7 +33,7 @@ actions, Zuul CI. OpenStack, AWS, OpenNebula. Linux, systemd
 
 SoftIron specialises in creating high-performance datacentre hardware and
 provides appliances for building private clouds. As a senior engineer I am
-respoinsible for:
+responsible for:
 - Support deployment tooling for the storage solution.
 - Integrate external solutions to create strategic partnerships (ownCloud,
   TrueNas, Rancher, Filterbox, etc.)
