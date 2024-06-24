@@ -13,12 +13,12 @@ title: CV OP
 
 ## Personal Statement
 
-**Computer Science Engineer** with experience working with embedded devices and
-Linux systems. Main areas of expertise include build systems, system
-integration (including building Linux systems from scratch), infrastructure,
-open-source technologies and culture. Special interest in automation and
-reproducibility, infrastructure as code, CI/CD, and contributing to open-source
-projects. A team player who is always willing to help and share knowledge.
+**Computer Science Engineer** with experience working with Python, Go, and
+containerised applications. Special interest in automation and reproducibility,
+infrastructure as code, CI/CD, and contributing to open-source projects.
+Additional experience, in software integration, embedded devices and building
+Linux systems from scratch.
+A team player who is always willing to help and share knowledge.
 
 ## Programming Languages and Tools
 
@@ -35,7 +35,7 @@ SoftIron specialises in creating high-performance datacentre hardware and
 provides appliances for building private clouds. As a senior engineer I am
 responsible for:
 - Lead **Kubernetes** solutions and integrations: **CSI**, Rancher, Node
-  Driver, ArgoCD, **GPU** enablement.
+  Driver, **ArgoCD**, GPU enablement.
 - Deployment and maintenance of internal **OpenStack**, using kolla-ansible
   with **Ceph**.
 - Support deployment tooling for the storage solution.
@@ -57,8 +57,8 @@ I acted as the tech lead on various projects, including:
   integrating with **Zuul CI**
 - Automating the splitting of several projects from SVN into separate Git
   repositories, including the implementation of a Pull Request workflow.
-- Migration of Lorry mirroring tool to Python 3 and containers, including
-  **Helm** deployment scripts.
+- Migration of Lorry mirroring tool to Python 3 and containers running on
+  AWS **EKS**, including  **Helm** deployment scripts.
 - Build Linux platform for a conference demo, in addition to OTA upgrades
   using **OSTree**.
 - Public test suite creation for Remote Execution API compatibility between
