@@ -55,7 +55,7 @@ focus on embedded, software integration, and Open Source. As a senior engineer,
 I acted as the tech lead on various projects, including:
 - Deployment of BuildBarn on **OpenStack** using **Terraform** and **Ansible**,
   integrating with **Zuul CI**
-- Automating the splitting of several projects from SVN into separate Git
+- **Python** autumation to split several projects from SVN into separate Git
   repositories, including the implementation of a Pull Request workflow.
 - Migration of Lorry mirroring tool to Python 3 and containers running on
   AWS **EKS**, including  **Helm** deployment scripts.
@@ -65,12 +65,13 @@ I acted as the tech lead on various projects, including:
   different clients and servers, using GitLab CI.
 - Support OpenStack ARM64 deployments using **Kolla**, contributing fixes
   upstream.
-- Lead a team of six people in developing a Python application and libraries
+- **Lead a team** of six people in developing a **Python** application and libraries
   for flashing and configuring ANC audio devices.
 
 Previously I worked and ended up leading the team working on Baserock. As part
 of this role I worked on:
 
+- Maintained and improved core tools in **Python**
 - Integration and maintenance of software on Linux systems, including OpenStack,
   Systemd, Kernel, etc.
 - Create and maintain core infrastructure, using **Ansible** and **OpenStack**.
