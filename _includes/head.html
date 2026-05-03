@@ -40,7 +40,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@palvarez1989">
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
   <meta name="twitter:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page_title }} &middot; {{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{{ page_description }}">
   {% if page_image %}<meta name="twitter:image" content="{{ page_image | absolute_url }}">{% endif %}
